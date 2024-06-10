@@ -13,7 +13,7 @@ Cron Parser is a Go application that parses a cron expression and prints the sch
 1. Clone the repository to your local machine or download zip file:
 a. For clonning : 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/bheem011/cron-parser.git
    ```
 
 2. Navigate to the project directory:
